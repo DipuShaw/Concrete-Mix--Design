@@ -1,0 +1,1 @@
+cout << f1 << endl;
